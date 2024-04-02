@@ -1,5 +1,5 @@
 <h1>Temple of the Forgoten Gods - Храм забытых богов</h1>
 Репозиторий игры над которой работает команда <b>Novellast.</b>. Разработка производится на движке для создания визуальных новел Ren`py с использованием языка программирования Python. 
-<br>![Logo-Big-White-Dick](https://github.com/dm1trr1y/Temple-of-the-Forgoten-Gods/assets/112821368/8d554f8a-f384-4ed9-8857-357a47cd68c1)
+<br>![image](https://github.com/dm1trr1y/Temple-of-the-Forgoten-Gods/assets/112821368/592ec925-35b3-4594-ade0-7689da17503b)
 <br>Ответсвенный за репозиторий и <b>ведущий разработчик</b> проекта - <i>dm1trr1y</i>
 <br>Заместитель ведущего разработчика и <b>главный сценарист</b> а также редактор - <i>yeatrn</i> (в простонароде - Фуфел)
